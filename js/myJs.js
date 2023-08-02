@@ -1,6 +1,6 @@
 const textConfig = {
   text1: "Chào Linh! Anh muốn nói với em một điều mà anh đã nói suốt thời gian qua, nhưng lần này sẽ 'xịn' hơn!",
-  text2: "Dù em có đồng ý hay không, điều ấy không quan trọng.",
+  text2: "Dù em có đồng ý hay không, điều ấy không quan trọng :V",
   text3: "Anh! Muốn! Nói lời yêu em, tỏ tình đấy! Muốn em làm người yêu của anh ._.",
   text4: "Thành thật với bản thân mình đi em, đến cái máy điện thoại còn không tin em nữa này :v",
   text5: "Không! em không yêu anh",
@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Chẳng còn lí do nào khác ngoài việc anh rất đẹp trai cả, em đã yêu anh từ lần đầu tiên chúng mình nói chuyện rồi :D :V :V :))))))",
   text10: "Cảm ơn em đã đến bên anh",
   text11:
-    "Tối Xin lỗi vì khoảng thời gian qua đã làm em buồn nhiều, anh sẽ cố gắng để sau này em không phải buồn nữa, yêu em!",
+    "Anh Xin lỗi vì khoảng thời gian qua đã làm em buồn nhiều, anh sẽ cố gắng để sau này em không phải buồn nữa, yêu em!",
   text12: " ;-; ",
 };
 
