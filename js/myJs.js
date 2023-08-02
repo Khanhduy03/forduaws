@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text1: "Chào Linh! Anh muốn nói với em một điều mà anh đã nói suốt thời gian qua, nhưng lần này sẽ 'xịn' hơn!",
+  text2: "Dù em có đồng ý hay không, điều ấy không quan trọng.",
+  text3: "Anh! Muốn! Nói lời yêu em, tỏ tình đấy! Muốn em làm người yêu của anh ._.",
+  text4: "Thành thật với bản thân mình đi em, đến cái máy điện thoại còn không tin em nữa này :v",
+  text5: "Không! em không yêu anh",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text7: "Thế tại sao em lại yêu anh thế?",
+  text8: "Gửi cho người yêu em",
+  text9: "Chẳng còn lí do nào khác ngoài việc anh rất đẹp trai cả, em đã yêu anh từ lần đầu tiên chúng mình nói chuyện rồi :D :V :V :))))))",
+  text10: "Cảm ơn em đã đến bên anh",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Tối Xin lỗi vì khoảng thời gian qua đã làm em buồn nhiều, anh sẽ cố gắng để sau này em không phải buồn nữa, yêu em!",
+  text12: " ;-; ",
 };
 
 $(document).ready(function () {
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/linh.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("img/iput-bg.jpg")',
